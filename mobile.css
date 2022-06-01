@@ -1,3 +1,51 @@
 .header{
     background-color: black;
+    height: 50px; /*pasar a medida relativa*/
+    position: relative;
 }
+.nav-logo{
+    height: 40px;
+    position: absolute;
+    top: 4px;
+
+}
+.nav-icon{
+    width: 40px;
+    position: absolute;
+    right: 0; /*pone la img a la derecha*/
+}
+.section1{
+    background-color: cyan;
+}
+.prueba-premium{
+    font-size: 400%;
+    color: white;
+    font-family: fantasy;
+    padding-top: 20%;
+}
+.intro-premium{
+    font-size: 200%;
+    color: white;
+    font-family: fantasy;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.button{
+    background-color: green;
+    color: white;
+    border-radius: 35%; /*no se queda bien*/
+    margin-left: 30%; /*buscar como centrarlo*/
+    width: 200px;
+    height: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 100%;
+}
+.terminos{
+    font-size: 100%;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+/*Para el jueves deben estar las 3 pantallas o solo la de móvil?*/
