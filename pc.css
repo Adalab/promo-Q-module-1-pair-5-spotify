@@ -20,7 +20,7 @@
 }
 .section1{
     background-color: #529DF1;
-    
+    background-image: url("./images/premium_dancer.png");/*PREGUNTA: son muchas*/
 }
 .prueba-premium{
     font-size: 400%;
@@ -59,4 +59,7 @@
     margin-left: 5%
 }
 
+.section2{
+    background-color: #fefefe;
+}
 /*NOTA: no se entrega esta práctica*/
