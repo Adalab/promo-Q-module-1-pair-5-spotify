@@ -18,15 +18,15 @@ body {
     position: absolute;
     top: 4px;
     left: 50px;
-
 }
 
-.nav-icon {
-    width: 40px;
-    position: absolute;
-    right: 7px;
-    top: 4px;
-    /*NOTA: pone la img a la derecha*/
+.barra-nav {
+    color: var(--color-text);
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    padding-top: 15px;
+    gap: 10px;
 }
 
 .section1 {
